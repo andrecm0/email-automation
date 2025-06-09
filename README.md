@@ -1,2 +1,3 @@
-# email-automation
-IA automation: email flow work
+# Gmail Automation
+Email workflow using VSCode and LLMs
+Python and TinyLlama
